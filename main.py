@@ -7,8 +7,8 @@ GITHUB_USERNAME = "hmcadet54"
 GITHUB_EMAIL = "hmcadet54@gmail.com"
 
 # Hardcoded start and end dates (format: YYYY-MM-DD)
-START_DATE = "2023-01-01"
-END_DATE = "2023-12-31"
+START_DATE = "2024-01-01"
+END_DATE = "2024-03-15"
 
 # Configure Git with the hardcoded username and email
 os.system(f'git config user.name "{GITHUB_USERNAME}"')
